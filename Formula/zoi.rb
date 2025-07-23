@@ -1,3 +1,5 @@
+# Maintainer: ZilloweZ <zillowez@gmail.com>
+
 class Zoi < Formula
   desc "Universal Package Manager & Environment Setup Tool"
   homepage "https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi"
